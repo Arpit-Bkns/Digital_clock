@@ -1,5 +1,6 @@
 # Digital_clock
 A modern digital clock built with HTML, CSS, and JavaScript. It displays the current time, date, day, and updates every second. Features a stylish glassmorphism UI.
+
 --- Digital Clock
 
 A simple, elegant, and responsive Digital Clock web application that displays the current time in real-time using JavaScript. This project is ideal for beginners to understand how to work with Date objects, DOM manipulation, and real-time updates in JavaScript.
