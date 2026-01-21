@@ -21,7 +21,7 @@ date.innerHTML = cloc.getDate()
 year.innerHTML = cloc.getFullYear()
 day.innerHTML = days[cloc.getDay()]
 second.innerHTML = (cloc.getSeconds() <10?"0":"") + cloc.getSeconds()
-ampm.innerHTML = cloc.getHours() >=12? "AM":"PM"
+ampm.innerHTML = cloc.getHours() >=12? "PM":"AM"
 month.innerHTML = months[cloc.getMonth()]
 
 },1000)
